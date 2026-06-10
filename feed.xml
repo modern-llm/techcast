@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 12:51:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 09:20:43 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>TechCast Daily — April 16, 2026: Privilege, Private Inference, and the Dial-Reading Robot</title>
-      <description>10 stories</description>
-      <guid isPermaLink="false">techcast-2026-04-16</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-16.mp3" length="19769015" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Apr 2026 12:21:36 +0000</pubDate>
-      <itunes:duration>988</itunes:duration>
-    </item>
     <item>
       <title>TechCast Daily — April 17, 2026: Three Frontier Models, Agents Everywhere, and a Transformer in HyperCard</title>
       <description>6 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-02.mp3" length="5858595" type="audio/mpeg"/>
       <pubDate>Tue, 02 Jun 2026 12:51:36 +0000</pubDate>
       <itunes:duration>976</itunes:duration>
+    </item>
+    <item>
+      <title>Apple Bets on Google, Anthropic Goes Public, OpenAI Wants to Be Everything</title>
+      <description>5 stories</description>
+      <guid isPermaLink="false">techcast-2026-06-10</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-10.mp3" length="4971846" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Jun 2026 09:20:43 +0000</pubDate>
+      <itunes:duration>828</itunes:duration>
     </item>
   </channel>
 </rss>
