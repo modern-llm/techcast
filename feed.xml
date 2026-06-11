@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 09:20:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 09:20:38 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>TechCast Daily — April 17, 2026: Three Frontier Models, Agents Everywhere, and a Transformer in HyperCard</title>
-      <description>6 stories</description>
-      <guid isPermaLink="false">techcast-2026-04-17</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-17.mp3" length="17549031" type="audio/mpeg"/>
-      <pubDate>Fri, 17 Apr 2026 12:19:18 +0000</pubDate>
-      <itunes:duration>877</itunes:duration>
-    </item>
     <item>
       <title>OpenAI's Retreat, Cursor's Ascent, and the Tokenmaxxing Reckoning</title>
       <description>8 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-10.mp3" length="4971846" type="audio/mpeg"/>
       <pubDate>Wed, 10 Jun 2026 09:20:43 +0000</pubDate>
       <itunes:duration>828</itunes:duration>
+    </item>
+    <item>
+      <title>Fable's Cage, Agents Gone Wild, and the Memory Paradox</title>
+      <description>9 stories</description>
+      <guid isPermaLink="false">techcast-2026-06-11</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-11.mp3" length="7466770" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Jun 2026 09:20:38 +0000</pubDate>
+      <itunes:duration>1244</itunes:duration>
     </item>
   </channel>
 </rss>
