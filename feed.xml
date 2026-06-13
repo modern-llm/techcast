@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 09:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 09:08:45 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>OpenAI's Retreat, Cursor's Ascent, and the Tokenmaxxing Reckoning</title>
-      <description>8 stories</description>
-      <guid isPermaLink="false">techcast-2026-04-19</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-19.mp3" length="20186109" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Apr 2026 12:23:49 +0000</pubDate>
-      <itunes:duration>1009</itunes:duration>
-    </item>
     <item>
       <title>The Post-Cook Era Begins, and Anthropic's Mythos Rattles Everyone</title>
       <description>13 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-11.mp3" length="7466770" type="audio/mpeg"/>
       <pubDate>Thu, 11 Jun 2026 09:20:38 +0000</pubDate>
       <itunes:duration>1244</itunes:duration>
+    </item>
+    <item>
+      <title>Washington Pulls Anthropic's Plug, Bezos Builds an Engineer, and SpaceX Goes Public</title>
+      <description>8 stories</description>
+      <guid isPermaLink="false">techcast-2026-06-13</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-13.mp3" length="6075183" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Jun 2026 09:08:45 +0000</pubDate>
+      <itunes:duration>1012</itunes:duration>
     </item>
   </channel>
 </rss>
