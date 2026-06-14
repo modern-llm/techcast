@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 09:08:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 09:20:01 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>The Post-Cook Era Begins, and Anthropic's Mythos Rattles Everyone</title>
-      <description>13 stories</description>
-      <guid isPermaLink="false">techcast-2026-04-21</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-21.mp3" length="32796669" type="audio/mpeg"/>
-      <pubDate>Tue, 21 Apr 2026 16:37:08 +0000</pubDate>
-      <itunes:duration>1639</itunes:duration>
-    </item>
     <item>
       <title>Cursor's $60B Bet, Mythos Cuts Both Ways, and the End of Cheap AI Coding</title>
       <description>12 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-13.mp3" length="6075183" type="audio/mpeg"/>
       <pubDate>Sat, 13 Jun 2026 09:08:45 +0000</pubDate>
       <itunes:duration>1012</itunes:duration>
+    </item>
+    <item>
+      <title>Who Pulled the Plug on Anthropic's Models, and Why That Should Worry You</title>
+      <description>11 stories</description>
+      <guid isPermaLink="false">techcast-2026-06-14</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-14.mp3" length="7181092" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Jun 2026 09:20:01 +0000</pubDate>
+      <itunes:duration>1196</itunes:duration>
     </item>
   </channel>
 </rss>
