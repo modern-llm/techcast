@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 09:20:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 09:16:24 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Cursor's $60B Bet, Mythos Cuts Both Ways, and the End of Cheap AI Coding</title>
-      <description>12 stories</description>
-      <guid isPermaLink="false">techcast-2026-04-22</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-22.mp3" length="17538916" type="audio/mpeg"/>
-      <pubDate>Wed, 22 Apr 2026 14:57:51 +0000</pubDate>
-      <itunes:duration>876</itunes:duration>
-    </item>
     <item>
       <title>The Collapse of Old Moats</title>
       <description>8 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-14.mp3" length="7181092" type="audio/mpeg"/>
       <pubDate>Sun, 14 Jun 2026 09:20:01 +0000</pubDate>
       <itunes:duration>1196</itunes:duration>
+    </item>
+    <item>
+      <title>Why the Government Really Pulled Mythos, OpenAI's $34 Billion Hole, and the Skill Rot Reckoning</title>
+      <description>13 stories</description>
+      <guid isPermaLink="false">techcast-2026-06-16</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-16.mp3" length="8254491" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Jun 2026 09:16:24 +0000</pubDate>
+      <itunes:duration>1375</itunes:duration>
     </item>
   </channel>
 </rss>
