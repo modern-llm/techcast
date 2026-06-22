@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 09:16:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 10:33:36 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Anthropic's $40B, Cook's Exit, and the Capital Sweepstakes</title>
-      <description>9 stories</description>
-      <guid isPermaLink="false">techcast-2026-04-25</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-25.mp3" length="21246422" type="audio/mpeg"/>
-      <pubDate>Sat, 25 Apr 2026 14:59:27 +0000</pubDate>
-      <itunes:duration>1062</itunes:duration>
-    </item>
     <item>
       <title>April 26, 2026 — Apple's Hardware Reboot, Sovereign AI Bolts Together, and a Chatbot's First Reckoning</title>
       <description>11 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-18.mp3" length="5531166" type="audio/mpeg"/>
       <pubDate>Thu, 18 Jun 2026 09:16:13 +0000</pubDate>
       <itunes:duration>921</itunes:duration>
+    </item>
+    <item>
+      <title>Anthropic's Turbulent Week, AI Costs Hit the CFO, and Apple's Quiet Revolution</title>
+      <description>9 stories</description>
+      <guid isPermaLink="false">techcast-2026-06-22</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-22.mp3" length="6769834" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Jun 2026 10:33:36 +0000</pubDate>
+      <itunes:duration>1128</itunes:duration>
     </item>
   </channel>
 </rss>
