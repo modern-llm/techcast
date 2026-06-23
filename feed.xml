@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 10:33:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 11:53:41 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>April 26, 2026 — Apple's Hardware Reboot, Sovereign AI Bolts Together, and a Chatbot's First Reckoning</title>
-      <description>11 stories</description>
-      <guid isPermaLink="false">techcast-2026-04-26</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-26.mp3" length="18491268" type="audio/mpeg"/>
-      <pubDate>Sun, 26 Apr 2026 14:57:34 +0000</pubDate>
-      <itunes:duration>924</itunes:duration>
-    </item>
     <item>
       <title>Confessing Agents, Saturated Benchmarks, and a Crack in Trisomy 21</title>
       <description>10 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-22.mp3" length="6769834" type="audio/mpeg"/>
       <pubDate>Mon, 22 Jun 2026 10:33:36 +0000</pubDate>
       <itunes:duration>1128</itunes:duration>
+    </item>
+    <item>
+      <title>The Price of Caution: Anthropic's Export Problem, OpenAI Goes Cyber, and the $150M/Month AI Arms Race</title>
+      <description>8 stories</description>
+      <guid isPermaLink="false">techcast-2026-06-23</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-23.mp3" length="6624993" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Jun 2026 11:53:41 +0000</pubDate>
+      <itunes:duration>1104</itunes:duration>
     </item>
   </channel>
 </rss>
