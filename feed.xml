@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 11:53:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 09:10:24 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Confessing Agents, Saturated Benchmarks, and a Crack in Trisomy 21</title>
-      <description>10 stories</description>
-      <guid isPermaLink="false">techcast-2026-04-27</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-27.mp3" length="21374590" type="audio/mpeg"/>
-      <pubDate>Mon, 27 Apr 2026 15:00:35 +0000</pubDate>
-      <itunes:duration>1068</itunes:duration>
-    </item>
     <item>
       <title>AI's Great Untethering</title>
       <description>10 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-23.mp3" length="6624993" type="audio/mpeg"/>
       <pubDate>Tue, 23 Jun 2026 11:53:41 +0000</pubDate>
       <itunes:duration>1104</itunes:duration>
+    </item>
+    <item>
+      <title>The Government Becomes the Gatekeeper</title>
+      <description>6 stories</description>
+      <guid isPermaLink="false">techcast-2026-06-27</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-27.mp3" length="6443633" type="audio/mpeg"/>
+      <pubDate>Sat, 27 Jun 2026 09:10:24 +0000</pubDate>
+      <itunes:duration>1073</itunes:duration>
     </item>
   </channel>
 </rss>
