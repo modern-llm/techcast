@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 09:10:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 09:08:56 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>AI's Great Untethering</title>
-      <description>10 stories</description>
-      <guid isPermaLink="false">techcast-2026-04-28</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-04-28.mp3" length="16688306" type="audio/mpeg"/>
-      <pubDate>Tue, 28 Apr 2026 14:59:40 +0000</pubDate>
-      <itunes:duration>834</itunes:duration>
-    </item>
     <item>
       <title>Anthropic at $900B, OpenAI on AWS, and the Pentagon's New Favorite Lab</title>
       <description>12 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-27.mp3" length="6443633" type="audio/mpeg"/>
       <pubDate>Sat, 27 Jun 2026 09:10:24 +0000</pubDate>
       <itunes:duration>1073</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily — June 28, 2026: RAMageddon Comes for Apple</title>
+      <description>9 stories</description>
+      <guid isPermaLink="false">techcast-2026-06-28</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-28.mp3" length="6179704" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Jun 2026 09:08:56 +0000</pubDate>
+      <itunes:duration>1029</itunes:duration>
     </item>
   </channel>
 </rss>
