@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 09:08:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 09:09:23 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Anthropic's $900B Pentagon Paradox, and the AI Doctor Wins the ER</title>
-      <description>8 stories</description>
-      <guid isPermaLink="false">techcast-2026-05-04</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-04.mp3" length="18185949" type="audio/mpeg"/>
-      <pubDate>Mon, 04 May 2026 15:09:58 +0000</pubDate>
-      <itunes:duration>909</itunes:duration>
-    </item>
     <item>
       <title>The Flattery Vulnerability and Big Tech's AI Sneak Plays</title>
       <description>20 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-29.mp3" length="6644090" type="audio/mpeg"/>
       <pubDate>Mon, 29 Jun 2026 09:08:35 +0000</pubDate>
       <itunes:duration>1107</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily — June 30, 2026: The GPU Bubble Meets the Trillion-Dollar Bet</title>
+      <description>8 stories</description>
+      <guid isPermaLink="false">techcast-2026-06-30</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-30.mp3" length="5641882" type="audio/mpeg"/>
+      <pubDate>Tue, 30 Jun 2026 09:09:23 +0000</pubDate>
+      <itunes:duration>940</itunes:duration>
     </item>
   </channel>
 </rss>
