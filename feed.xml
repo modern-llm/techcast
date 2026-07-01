@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 09:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 09:06:44 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>The Flattery Vulnerability and Big Tech's AI Sneak Plays</title>
-      <description>20 stories</description>
-      <guid isPermaLink="false">techcast-2026-05-05</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-05.mp3" length="29600340" type="audio/mpeg"/>
-      <pubDate>Tue, 05 May 2026 15:10:57 +0000</pubDate>
-      <itunes:duration>1479</itunes:duration>
-    </item>
     <item>
       <title>Anthropic Rents a Data Center, Apple Calls Intel, and Agents Learn to Dream</title>
       <description>8 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-30.mp3" length="5641882" type="audio/mpeg"/>
       <pubDate>Tue, 30 Jun 2026 09:09:23 +0000</pubDate>
       <itunes:duration>940</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily — July 1, 2026: Anthropic's Big Day, and Why Your AI Browser Can't Be Trusted</title>
+      <description>14 stories</description>
+      <guid isPermaLink="false">techcast-2026-07-01</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-01.mp3" length="7792106" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2026 09:06:44 +0000</pubDate>
+      <itunes:duration>1298</itunes:duration>
     </item>
   </channel>
 </rss>
