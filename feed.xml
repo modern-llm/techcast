@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 09:06:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 09:13:41 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Anthropic Rents a Data Center, Apple Calls Intel, and Agents Learn to Dream</title>
-      <description>8 stories</description>
-      <guid isPermaLink="false">techcast-2026-05-10</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-10.mp3" length="16900039" type="audio/mpeg"/>
-      <pubDate>Sun, 10 May 2026 23:41:20 +0000</pubDate>
-      <itunes:duration>844</itunes:duration>
-    </item>
     <item>
       <title>OpenAI's Messy Week, Anthropic's Two-Front War, and AI Hallucinations Meet Reality</title>
       <description>8 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-01.mp3" length="7792106" type="audio/mpeg"/>
       <pubDate>Wed, 01 Jul 2026 09:06:44 +0000</pubDate>
       <itunes:duration>1298</itunes:duration>
+    </item>
+    <item>
+      <title>The Gauge Broke: Anthropic Goes Global, and Why Your AI Pair Programmer Might Be Lying to You</title>
+      <description>9 stories</description>
+      <guid isPermaLink="false">techcast-2026-07-02</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-02.mp3" length="5416393" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Jul 2026 09:13:41 +0000</pubDate>
+      <itunes:duration>902</itunes:duration>
     </item>
   </channel>
 </rss>
