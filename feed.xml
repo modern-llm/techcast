@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 09:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 09:06:04 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>OpenAI's Messy Week, Anthropic's Two-Front War, and AI Hallucinations Meet Reality</title>
-      <description>8 stories</description>
-      <guid isPermaLink="false">techcast-2026-05-16</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-16.mp3" length="18951086" type="audio/mpeg"/>
-      <pubDate>Sat, 16 May 2026 22:51:13 +0000</pubDate>
-      <itunes:duration>947</itunes:duration>
-    </item>
     <item>
       <title>TechCast Daily — Petabyte Servers, Weekend Gaussian Splats, and Malta's National ChatGPT</title>
       <description>3 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-02.mp3" length="5416393" type="audio/mpeg"/>
       <pubDate>Thu, 02 Jul 2026 09:13:41 +0000</pubDate>
       <itunes:duration>902</itunes:duration>
+    </item>
+    <item>
+      <title>The Government Wants a Piece: OpenAI's 5% Offer and the Great AI Land Grab</title>
+      <description>13 stories</description>
+      <guid isPermaLink="false">techcast-2026-07-03</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-03.mp3" length="7211478" type="audio/mpeg"/>
+      <pubDate>Fri, 03 Jul 2026 09:06:04 +0000</pubDate>
+      <itunes:duration>1201</itunes:duration>
     </item>
   </channel>
 </rss>
