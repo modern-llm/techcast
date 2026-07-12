@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 09:24:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 09:04:39 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Google bets the company on agents, Karpathy joins Anthropic, and Figure's robots go viral</title>
-      <description>10 stories</description>
-      <guid isPermaLink="false">techcast-2026-05-20</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-20.mp3" length="21610293" type="audio/mpeg"/>
-      <pubDate>Wed, 20 May 2026 15:10:45 +0000</pubDate>
-      <itunes:duration>1080</itunes:duration>
-    </item>
     <item>
       <title>TechCast Daily: Musk Loses, Then Cashes In</title>
       <description>10 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-11.mp3" length="4466109" type="audio/mpeg"/>
       <pubDate>Sat, 11 Jul 2026 09:24:26 +0000</pubDate>
       <itunes:duration>744</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily — July 12, 2026: The GPU Money Merry-Go-Round, Fonts That Blind AI, and the Cult of Rebuilding</title>
+      <description>10 stories</description>
+      <guid isPermaLink="false">techcast-2026-07-12</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-12.mp3" length="6062827" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Jul 2026 09:04:39 +0000</pubDate>
+      <itunes:duration>1010</itunes:duration>
     </item>
   </channel>
 </rss>
