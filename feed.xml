@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 09:06:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 09:08:17 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>TechCast Daily — May 22, 2026: Poisoned Code, Post-Search Google, and SpaceX's AI Pivot</title>
-      <description>7 stories</description>
-      <guid isPermaLink="false">techcast-2026-05-22</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-22.mp3" length="18892533" type="audio/mpeg"/>
-      <pubDate>Fri, 22 May 2026 15:19:28 +0000</pubDate>
-      <itunes:duration>944</itunes:duration>
-    </item>
     <item>
       <title>SpaceX Goes Public, Musk Kills an Executive Order, and Microsoft Pulls the Plug on Claude</title>
       <description>10 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-13.mp3" length="6307440" type="audio/mpeg"/>
       <pubDate>Mon, 13 Jul 2026 09:06:12 +0000</pubDate>
       <itunes:duration>1051</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily — July 14, 2026: Apple Takes OpenAI to Court</title>
+      <description>9 stories</description>
+      <guid isPermaLink="false">techcast-2026-07-14</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-14.mp3" length="6780041" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Jul 2026 09:08:17 +0000</pubDate>
+      <itunes:duration>1129</itunes:duration>
     </item>
   </channel>
 </rss>
