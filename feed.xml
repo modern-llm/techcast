@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 09:08:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 09:07:31 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>SpaceX Goes Public, Musk Kills an Executive Order, and Microsoft Pulls the Plug on Claude</title>
-      <description>10 stories</description>
-      <guid isPermaLink="false">techcast-2026-05-23</guid>
-      <enclosure url="https://geepeetee.github.io/techcast-feed/episodes/techcast-2026-05-23.mp3" length="17815413" type="audio/mpeg"/>
-      <pubDate>Sat, 23 May 2026 17:08:14 +0000</pubDate>
-      <itunes:duration>890</itunes:duration>
-    </item>
     <item>
       <title>Starship Sticks the Landing, OpenAI's 72-Hour Coup, and Chatbots With Personality Problems</title>
       <description>8 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-14.mp3" length="6780041" type="audio/mpeg"/>
       <pubDate>Tue, 14 Jul 2026 09:08:17 +0000</pubDate>
       <itunes:duration>1129</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily — July 15, 2026: The Buildout Meets the Backlash</title>
+      <description>9 stories</description>
+      <guid isPermaLink="false">techcast-2026-07-15</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-15.mp3" length="6913821" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Jul 2026 09:07:31 +0000</pubDate>
+      <itunes:duration>1152</itunes:duration>
     </item>
   </channel>
 </rss>
