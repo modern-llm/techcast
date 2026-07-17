@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 09:08:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 09:06:25 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>TechCast Daily — May 25, 2026: The AI Bill Comes Due</title>
-      <description>6 stories</description>
-      <guid isPermaLink="false">techcast-2026-05-25</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-25.mp3" length="4397554" type="audio/mpeg"/>
-      <pubDate>Mon, 25 May 2026 22:03:02 +0000</pubDate>
-      <itunes:duration>732</itunes:duration>
-    </item>
     <item>
       <title>Uber Pumps the Brakes, Claude Finds a Kernel Bug</title>
       <description>6 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-16.mp3" length="6963806" type="audio/mpeg"/>
       <pubDate>Thu, 16 Jul 2026 09:08:00 +0000</pubDate>
       <itunes:duration>1160</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily — July 17, 2026: Torvalds Draws a Line, and Kimi Takes the Crown</title>
+      <description>10 stories</description>
+      <guid isPermaLink="false">techcast-2026-07-17</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-17.mp3" length="8885197" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Jul 2026 09:06:25 +0000</pubDate>
+      <itunes:duration>1480</itunes:duration>
     </item>
   </channel>
 </rss>
