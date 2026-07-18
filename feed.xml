@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 09:06:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 13:35:51 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Uber Pumps the Brakes, Claude Finds a Kernel Bug</title>
-      <description>6 stories</description>
-      <guid isPermaLink="false">techcast-2026-05-26</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-26.mp3" length="5488204" type="audio/mpeg"/>
-      <pubDate>Tue, 26 May 2026 15:20:25 +0000</pubDate>
-      <itunes:duration>914</itunes:duration>
-    </item>
     <item>
       <title>AI gets its receipts, Nvidia hugs Taiwan, and one Python bug shakes the agent economy</title>
       <description>8 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-17.mp3" length="8885197" type="audio/mpeg"/>
       <pubDate>Fri, 17 Jul 2026 09:06:25 +0000</pubDate>
       <itunes:duration>1480</itunes:duration>
+    </item>
+    <item>
+      <title>Apple Goes to War, Chips Become Collateral, and Stack Overflow's Long Goodbye</title>
+      <description>11 stories</description>
+      <guid isPermaLink="false">techcast-2026-07-18</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-18.mp3" length="8155545" type="audio/mpeg"/>
+      <pubDate>Sat, 18 Jul 2026 13:35:51 +0000</pubDate>
+      <itunes:duration>1359</itunes:duration>
     </item>
   </channel>
 </rss>
