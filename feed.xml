@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 13:35:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 09:05:12 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>AI gets its receipts, Nvidia hugs Taiwan, and one Python bug shakes the agent economy</title>
-      <description>8 stories</description>
-      <guid isPermaLink="false">techcast-2026-05-27</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-27.mp3" length="5828081" type="audio/mpeg"/>
-      <pubDate>Wed, 27 May 2026 23:52:41 +0000</pubDate>
-      <itunes:duration>971</itunes:duration>
-    </item>
     <item>
       <title>Apple Copies the ChatGPT Playbook, and the AI Bill Comes Due</title>
       <description>8 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-18.mp3" length="8155545" type="audio/mpeg"/>
       <pubDate>Sat, 18 Jul 2026 13:35:51 +0000</pubDate>
       <itunes:duration>1359</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily — July 19, 2026: The Prompt That Broke a 30-Year Deadlock</title>
+      <description>10 stories</description>
+      <guid isPermaLink="false">techcast-2026-07-19</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-19.mp3" length="9369462" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jul 2026 09:05:12 +0000</pubDate>
+      <itunes:duration>1561</itunes:duration>
     </item>
   </channel>
 </rss>
