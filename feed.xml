@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 09:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 09:05:06 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>The $965 Billion Question: Anthropic Takes the Crown</title>
-      <description>12 stories</description>
-      <guid isPermaLink="false">techcast-2026-05-30</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-05-30.mp3" length="7945136" type="audio/mpeg"/>
-      <pubDate>Sat, 30 May 2026 17:53:37 +0000</pubDate>
-      <itunes:duration>1324</itunes:duration>
-    </item>
     <item>
       <title>The Trillion-Dollar Reckoning — Anthropic's Big Day, AI's Jobs Walkback, and the Inference Land Grab</title>
       <description>14 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-20.mp3" length="5385976" type="audio/mpeg"/>
       <pubDate>Mon, 20 Jul 2026 09:04:34 +0000</pubDate>
       <itunes:duration>897</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily — July 21, 2026: China's Open-Weight Surge and Silicon Valley's Hidden Ledger</title>
+      <description>9 stories</description>
+      <guid isPermaLink="false">techcast-2026-07-21</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-21.mp3" length="6108458" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Jul 2026 09:05:06 +0000</pubDate>
+      <itunes:duration>1018</itunes:duration>
     </item>
   </channel>
 </rss>
