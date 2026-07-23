@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 09:05:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 09:06:31 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Anthropic Files, Florida Sues, and an AI Cracks an 80-Year Math Problem</title>
-      <description>10 stories</description>
-      <guid isPermaLink="false">techcast-2026-06-02</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-02.mp3" length="5858595" type="audio/mpeg"/>
-      <pubDate>Tue, 02 Jun 2026 12:51:36 +0000</pubDate>
-      <itunes:duration>976</itunes:duration>
-    </item>
     <item>
       <title>Apple Bets on Google, Anthropic Goes Public, OpenAI Wants to Be Everything</title>
       <description>5 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-22.mp3" length="6603474" type="audio/mpeg"/>
       <pubDate>Wed, 22 Jul 2026 09:05:10 +0000</pubDate>
       <itunes:duration>1100</itunes:duration>
+    </item>
+    <item>
+      <title>The Agent That Broke Out</title>
+      <description>13 stories</description>
+      <guid isPermaLink="false">techcast-2026-07-23</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-23.mp3" length="9218644" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Jul 2026 09:06:31 +0000</pubDate>
+      <itunes:duration>1536</itunes:duration>
     </item>
   </channel>
 </rss>
