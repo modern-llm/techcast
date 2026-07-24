@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 09:06:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 09:05:10 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Apple Bets on Google, Anthropic Goes Public, OpenAI Wants to Be Everything</title>
-      <description>5 stories</description>
-      <guid isPermaLink="false">techcast-2026-06-10</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-10.mp3" length="4971846" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Jun 2026 09:20:43 +0000</pubDate>
-      <itunes:duration>828</itunes:duration>
-    </item>
     <item>
       <title>Fable's Cage, Agents Gone Wild, and the Memory Paradox</title>
       <description>9 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-23.mp3" length="9218644" type="audio/mpeg"/>
       <pubDate>Thu, 23 Jul 2026 09:06:31 +0000</pubDate>
       <itunes:duration>1536</itunes:duration>
+    </item>
+    <item>
+      <title>The Rottweiler Got Off the Leash</title>
+      <description>14 stories</description>
+      <guid isPermaLink="false">techcast-2026-07-24</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-24.mp3" length="7258380" type="audio/mpeg"/>
+      <pubDate>Fri, 24 Jul 2026 09:05:10 +0000</pubDate>
+      <itunes:duration>1209</itunes:duration>
     </item>
   </channel>
 </rss>
