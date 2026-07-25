@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 09:05:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 09:56:22 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Fable's Cage, Agents Gone Wild, and the Memory Paradox</title>
-      <description>9 stories</description>
-      <guid isPermaLink="false">techcast-2026-06-11</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-11.mp3" length="7466770" type="audio/mpeg"/>
-      <pubDate>Thu, 11 Jun 2026 09:20:38 +0000</pubDate>
-      <itunes:duration>1244</itunes:duration>
-    </item>
     <item>
       <title>Washington Pulls Anthropic's Plug, Bezos Builds an Engineer, and SpaceX Goes Public</title>
       <description>8 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-24.mp3" length="7258380" type="audio/mpeg"/>
       <pubDate>Fri, 24 Jul 2026 09:05:10 +0000</pubDate>
       <itunes:duration>1209</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily — Opus 5, the Open-Weight Fight, and the Software That Keeps Getting Worse</title>
+      <description>12 stories</description>
+      <guid isPermaLink="false">techcast-2026-07-25</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-25.mp3" length="7602023" type="audio/mpeg"/>
+      <pubDate>Sat, 25 Jul 2026 09:56:22 +0000</pubDate>
+      <itunes:duration>1266</itunes:duration>
     </item>
   </channel>
 </rss>
