@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jul 2026 09:56:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 09:06:20 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Washington Pulls Anthropic's Plug, Bezos Builds an Engineer, and SpaceX Goes Public</title>
-      <description>8 stories</description>
-      <guid isPermaLink="false">techcast-2026-06-13</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-13.mp3" length="6075183" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Jun 2026 09:08:45 +0000</pubDate>
-      <itunes:duration>1012</itunes:duration>
-    </item>
     <item>
       <title>Who Pulled the Plug on Anthropic's Models, and Why That Should Worry You</title>
       <description>11 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-25.mp3" length="7602023" type="audio/mpeg"/>
       <pubDate>Sat, 25 Jul 2026 09:56:22 +0000</pubDate>
       <itunes:duration>1266</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily — Open Weights Grow Up, and the Compute Gap Gets Said Out Loud</title>
+      <description>18 stories</description>
+      <guid isPermaLink="false">techcast-2026-07-26</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-26.mp3" length="11670155" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Jul 2026 09:06:20 +0000</pubDate>
+      <itunes:duration>1944</itunes:duration>
     </item>
   </channel>
 </rss>
