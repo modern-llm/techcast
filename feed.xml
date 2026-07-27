@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2026 09:06:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 09:05:21 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Who Pulled the Plug on Anthropic's Models, and Why That Should Worry You</title>
-      <description>11 stories</description>
-      <guid isPermaLink="false">techcast-2026-06-14</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-14.mp3" length="7181092" type="audio/mpeg"/>
-      <pubDate>Sun, 14 Jun 2026 09:20:01 +0000</pubDate>
-      <itunes:duration>1196</itunes:duration>
-    </item>
     <item>
       <title>Why the Government Really Pulled Mythos, OpenAI's $34 Billion Hole, and the Skill Rot Reckoning</title>
       <description>13 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-26.mp3" length="11670155" type="audio/mpeg"/>
       <pubDate>Sun, 26 Jul 2026 09:06:20 +0000</pubDate>
       <itunes:duration>1944</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily — Kimi K3, the First Autonomous Hack, and Tao on Machine-Checked Math</title>
+      <description>10 stories</description>
+      <guid isPermaLink="false">techcast-2026-07-27</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-27.mp3" length="8054610" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Jul 2026 09:05:21 +0000</pubDate>
+      <itunes:duration>1342</itunes:duration>
     </item>
   </channel>
 </rss>
