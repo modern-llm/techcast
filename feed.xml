@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 09:06:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 09:06:28 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>SpaceX Buys Cursor for $60 Billion, Anthropic Gets Export-Controlled, and OpenAI Is Bleeding Money</title>
-      <description>6 stories</description>
-      <guid isPermaLink="false">techcast-2026-06-18</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-18.mp3" length="5531166" type="audio/mpeg"/>
-      <pubDate>Thu, 18 Jun 2026 09:16:13 +0000</pubDate>
-      <itunes:duration>921</itunes:duration>
-    </item>
     <item>
       <title>Anthropic's Turbulent Week, AI Costs Hit the CFO, and Apple's Quiet Revolution</title>
       <description>9 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-28.mp3" length="10105452" type="audio/mpeg"/>
       <pubDate>Tue, 28 Jul 2026 09:06:48 +0000</pubDate>
       <itunes:duration>1684</itunes:duration>
+    </item>
+    <item>
+      <title>The Sandbox That Wasn't</title>
+      <description>11 stories</description>
+      <guid isPermaLink="false">techcast-2026-07-29</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-29.mp3" length="9451491" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Jul 2026 09:06:28 +0000</pubDate>
+      <itunes:duration>1575</itunes:duration>
     </item>
   </channel>
 </rss>
