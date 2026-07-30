@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 09:06:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 09:06:01 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Anthropic's Turbulent Week, AI Costs Hit the CFO, and Apple's Quiet Revolution</title>
-      <description>9 stories</description>
-      <guid isPermaLink="false">techcast-2026-06-22</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-22.mp3" length="6769834" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Jun 2026 10:33:36 +0000</pubDate>
-      <itunes:duration>1128</itunes:duration>
-    </item>
     <item>
       <title>The Price of Caution: Anthropic's Export Problem, OpenAI Goes Cyber, and the $150M/Month AI Arms Race</title>
       <description>8 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-29.mp3" length="9451491" type="audio/mpeg"/>
       <pubDate>Wed, 29 Jul 2026 09:06:28 +0000</pubDate>
       <itunes:duration>1575</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily — July 30, 2026: The Machine That Breaks Crypto</title>
+      <description>9 stories</description>
+      <guid isPermaLink="false">techcast-2026-07-30</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-30.mp3" length="8356412" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Jul 2026 09:06:01 +0000</pubDate>
+      <itunes:duration>1392</itunes:duration>
     </item>
   </channel>
 </rss>
