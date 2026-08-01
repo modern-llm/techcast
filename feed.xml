@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 09:06:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 09:08:10 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>The Government Becomes the Gatekeeper</title>
-      <description>6 stories</description>
-      <guid isPermaLink="false">techcast-2026-06-27</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-06-27.mp3" length="6443633" type="audio/mpeg"/>
-      <pubDate>Sat, 27 Jun 2026 09:10:24 +0000</pubDate>
-      <itunes:duration>1073</itunes:duration>
-    </item>
     <item>
       <title>TechCast Daily — June 28, 2026: RAMageddon Comes for Apple</title>
       <description>9 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-31.mp3" length="9420582" type="audio/mpeg"/>
       <pubDate>Fri, 31 Jul 2026 09:06:45 +0000</pubDate>
       <itunes:duration>1570</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily — When the Models Break Out</title>
+      <description>13 stories</description>
+      <guid isPermaLink="false">techcast-2026-08-01</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-01.mp3" length="9803880" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Aug 2026 09:08:10 +0000</pubDate>
+      <itunes:duration>1633</itunes:duration>
     </item>
   </channel>
 </rss>
