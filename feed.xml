@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 09:07:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 09:07:50 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>TechCast Daily — July 1, 2026: Anthropic's Big Day, and Why Your AI Browser Can't Be Trusted</title>
-      <description>14 stories</description>
-      <guid isPermaLink="false">techcast-2026-07-01</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-01.mp3" length="7792106" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2026 09:06:44 +0000</pubDate>
-      <itunes:duration>1298</itunes:duration>
-    </item>
     <item>
       <title>The Gauge Broke: Anthropic Goes Global, and Why Your AI Pair Programmer Might Be Lying to You</title>
       <description>9 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-04.mp3" length="6801902" type="audio/mpeg"/>
       <pubDate>Tue, 04 Aug 2026 09:07:06 +0000</pubDate>
       <itunes:duration>1133</itunes:duration>
+    </item>
+    <item>
+      <title>The Compute Economy Meets the Power Grid</title>
+      <description>10 stories</description>
+      <guid isPermaLink="false">techcast-2026-08-05</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-05.mp3" length="7384964" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Aug 2026 09:07:50 +0000</pubDate>
+      <itunes:duration>1230</itunes:duration>
     </item>
   </channel>
 </rss>
