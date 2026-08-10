@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2026 09:05:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 09:07:35 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Apple Sues, GPT-5.6 Proves a Theorem, and Everyone Ships an Agent</title>
-      <description>9 stories</description>
-      <guid isPermaLink="false">techcast-2026-07-11</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-11.mp3" length="4466109" type="audio/mpeg"/>
-      <pubDate>Sat, 11 Jul 2026 09:24:26 +0000</pubDate>
-      <itunes:duration>744</itunes:duration>
-    </item>
     <item>
       <title>TechCast Daily — July 12, 2026: The GPU Money Merry-Go-Round, Fonts That Blind AI, and the Cult of Rebuilding</title>
       <description>10 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-09.mp3" length="7085292" type="audio/mpeg"/>
       <pubDate>Sun, 09 Aug 2026 09:05:57 +0000</pubDate>
       <itunes:duration>1180</itunes:duration>
+    </item>
+    <item>
+      <title>Auto Mode, Escaped Agents, and Where the Work Actually Goes</title>
+      <description>12 stories</description>
+      <guid isPermaLink="false">techcast-2026-08-10</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-10.mp3" length="8586663" type="audio/mpeg"/>
+      <pubDate>Mon, 10 Aug 2026 09:07:35 +0000</pubDate>
+      <itunes:duration>1431</itunes:duration>
     </item>
   </channel>
 </rss>
