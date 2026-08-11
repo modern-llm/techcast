@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 09:07:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 09:12:38 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>TechCast Daily — July 12, 2026: The GPU Money Merry-Go-Round, Fonts That Blind AI, and the Cult of Rebuilding</title>
-      <description>10 stories</description>
-      <guid isPermaLink="false">techcast-2026-07-12</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-12.mp3" length="6062827" type="audio/mpeg"/>
-      <pubDate>Sun, 12 Jul 2026 09:04:39 +0000</pubDate>
-      <itunes:duration>1010</itunes:duration>
-    </item>
     <item>
       <title>TechCast Daily — July 13, 2026: The Real Cost of Your Coding Agent</title>
       <description>9 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-10.mp3" length="8586663" type="audio/mpeg"/>
       <pubDate>Mon, 10 Aug 2026 09:07:35 +0000</pubDate>
       <itunes:duration>1431</itunes:duration>
+    </item>
+    <item>
+      <title>Zuckerberg Reopens the Weights, and an Agent Breaks Into a Gym</title>
+      <description>12 stories</description>
+      <guid isPermaLink="false">techcast-2026-08-11</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-11.mp3" length="9083034" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Aug 2026 09:12:38 +0000</pubDate>
+      <itunes:duration>1513</itunes:duration>
     </item>
   </channel>
 </rss>
