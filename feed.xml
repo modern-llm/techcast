@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 09:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 13:28:45 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>TechCast Daily — July 14, 2026: Apple Takes OpenAI to Court</title>
-      <description>9 stories</description>
-      <guid isPermaLink="false">techcast-2026-07-14</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-14.mp3" length="6780041" type="audio/mpeg"/>
-      <pubDate>Tue, 14 Jul 2026 09:08:17 +0000</pubDate>
-      <itunes:duration>1129</itunes:duration>
-    </item>
     <item>
       <title>TechCast Daily — July 15, 2026: The Buildout Meets the Backlash</title>
       <description>9 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-12.mp3" length="8570655" type="audio/mpeg"/>
       <pubDate>Wed, 12 Aug 2026 09:10:16 +0000</pubDate>
       <itunes:duration>1428</itunes:duration>
+    </item>
+    <item>
+      <title>Forty Minutes in March: The LiteLLM Key Leak, Three Frontier Models in One Morning, and a Bug That Waited Sixteen Years</title>
+      <description>12 stories</description>
+      <guid isPermaLink="false">techcast-2026-08-13</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-13.mp3" length="7696803" type="audio/mpeg"/>
+      <pubDate>Thu, 13 Aug 2026 13:28:45 +0000</pubDate>
+      <itunes:duration>1282</itunes:duration>
     </item>
   </channel>
 </rss>
