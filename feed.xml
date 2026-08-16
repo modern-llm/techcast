@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 09:07:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 09:09:24 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>TechCast Daily — July 16, 2026: Stripe Guns for PayPal, and the Open-Model Flood</title>
-      <description>11 stories</description>
-      <guid isPermaLink="false">techcast-2026-07-16</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-16.mp3" length="6963806" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2026 09:08:00 +0000</pubDate>
-      <itunes:duration>1160</itunes:duration>
-    </item>
     <item>
       <title>TechCast Daily — July 17, 2026: Torvalds Draws a Line, and Kimi Takes the Crown</title>
       <description>10 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-14.mp3" length="8098188" type="audio/mpeg"/>
       <pubDate>Fri, 14 Aug 2026 09:07:03 +0000</pubDate>
       <itunes:duration>1349</itunes:duration>
+    </item>
+    <item>
+      <title>SpaceX Buys the Editor</title>
+      <description>10 stories</description>
+      <guid isPermaLink="false">techcast-2026-08-16</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-16.mp3" length="7424402" type="audio/mpeg"/>
+      <pubDate>Sun, 16 Aug 2026 09:09:24 +0000</pubDate>
+      <itunes:duration>1237</itunes:duration>
     </item>
   </channel>
 </rss>
