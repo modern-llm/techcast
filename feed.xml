@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 09:07:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 09:07:21 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Apple Goes to War, Chips Become Collateral, and Stack Overflow's Long Goodbye</title>
-      <description>11 stories</description>
-      <guid isPermaLink="false">techcast-2026-07-18</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-18.mp3" length="8155545" type="audio/mpeg"/>
-      <pubDate>Sat, 18 Jul 2026 13:35:51 +0000</pubDate>
-      <itunes:duration>1359</itunes:duration>
-    </item>
     <item>
       <title>TechCast Daily — July 19, 2026: The Prompt That Broke a 30-Year Deadlock</title>
       <description>10 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-17.mp3" length="10819818" type="audio/mpeg"/>
       <pubDate>Mon, 17 Aug 2026 09:07:51 +0000</pubDate>
       <itunes:duration>1803</itunes:duration>
+    </item>
+    <item>
+      <title>Anthropic's Eighteen Billion Dollar Quarter, and the Bot That Opened a Door</title>
+      <description>10 stories</description>
+      <guid isPermaLink="false">techcast-2026-08-18</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-18.mp3" length="8046823" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Aug 2026 09:07:21 +0000</pubDate>
+      <itunes:duration>1341</itunes:duration>
     </item>
   </channel>
 </rss>
