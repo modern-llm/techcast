@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 09:07:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 09:07:48 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>TechCast Daily — When the Machine Finds the Counterexample</title>
-      <description>9 stories</description>
-      <guid isPermaLink="false">techcast-2026-07-20</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-20.mp3" length="5385976" type="audio/mpeg"/>
-      <pubDate>Mon, 20 Jul 2026 09:04:34 +0000</pubDate>
-      <itunes:duration>897</itunes:duration>
-    </item>
     <item>
       <title>TechCast Daily — July 21, 2026: China's Open-Weight Surge and Silicon Valley's Hidden Ledger</title>
       <description>9 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-19.mp3" length="7494977" type="audio/mpeg"/>
       <pubDate>Wed, 19 Aug 2026 09:07:05 +0000</pubDate>
       <itunes:duration>1249</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily: Stripe Buys the Meter, OpenAI Taps the Brakes</title>
+      <description>10 stories</description>
+      <guid isPermaLink="false">techcast-2026-08-20</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-20.mp3" length="8682857" type="audio/mpeg"/>
+      <pubDate>Thu, 20 Aug 2026 09:07:48 +0000</pubDate>
+      <itunes:duration>1447</itunes:duration>
     </item>
   </channel>
 </rss>
