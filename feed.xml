@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 09:07:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 09:40:16 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>TechCast Daily — July 21, 2026: China's Open-Weight Surge and Silicon Valley's Hidden Ledger</title>
-      <description>9 stories</description>
-      <guid isPermaLink="false">techcast-2026-07-21</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-21.mp3" length="6108458" type="audio/mpeg"/>
-      <pubDate>Tue, 21 Jul 2026 09:05:06 +0000</pubDate>
-      <itunes:duration>1018</itunes:duration>
-    </item>
     <item>
       <title>The Day an AI Broke Out of Its Sandbox</title>
       <description>10 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-20.mp3" length="8682857" type="audio/mpeg"/>
       <pubDate>Thu, 20 Aug 2026 09:07:48 +0000</pubDate>
       <itunes:duration>1447</itunes:duration>
+    </item>
+    <item>
+      <title>Every Model Cheats, and So Does Your Build Script</title>
+      <description>9 stories</description>
+      <guid isPermaLink="false">techcast-2026-08-21</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-21.mp3" length="9279725" type="audio/mpeg"/>
+      <pubDate>Fri, 21 Aug 2026 09:40:16 +0000</pubDate>
+      <itunes:duration>1546</itunes:duration>
     </item>
   </channel>
 </rss>
