@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 09:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 09:07:09 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>The Rottweiler Got Off the Leash</title>
-      <description>14 stories</description>
-      <guid isPermaLink="false">techcast-2026-07-24</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-24.mp3" length="7258380" type="audio/mpeg"/>
-      <pubDate>Fri, 24 Jul 2026 09:05:10 +0000</pubDate>
-      <itunes:duration>1209</itunes:duration>
-    </item>
     <item>
       <title>TechCast Daily — Opus 5, the Open-Weight Fight, and the Software That Keeps Getting Worse</title>
       <description>12 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-23.mp3" length="7825018" type="audio/mpeg"/>
       <pubDate>Sun, 23 Aug 2026 09:05:26 +0000</pubDate>
       <itunes:duration>1304</itunes:duration>
+    </item>
+    <item>
+      <title>The Cheap Models Came for the Hard Jobs</title>
+      <description>11 stories</description>
+      <guid isPermaLink="false">techcast-2026-08-24</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-24.mp3" length="8747923" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Aug 2026 09:07:09 +0000</pubDate>
+      <itunes:duration>1457</itunes:duration>
     </item>
   </channel>
 </rss>
