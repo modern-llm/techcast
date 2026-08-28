@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 09:06:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 09:07:23 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>TechCast Daily — Kimi K3, the First Autonomous Hack, and Tao on Machine-Checked Math</title>
-      <description>10 stories</description>
-      <guid isPermaLink="false">techcast-2026-07-27</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-27.mp3" length="8054610" type="audio/mpeg"/>
-      <pubDate>Mon, 27 Jul 2026 09:05:21 +0000</pubDate>
-      <itunes:duration>1342</itunes:duration>
-    </item>
     <item>
       <title>TechCast Daily — July 28, 2026: China Gives It Away, Google Wants It Both Ways</title>
       <description>10 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-27.mp3" length="7318131" type="audio/mpeg"/>
       <pubDate>Thu, 27 Aug 2026 09:06:34 +0000</pubDate>
       <itunes:duration>1219</itunes:duration>
+    </item>
+    <item>
+      <title>Nvidia Buys the Map</title>
+      <description>17 stories</description>
+      <guid isPermaLink="false">techcast-2026-08-28</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-28.mp3" length="10193087" type="audio/mpeg"/>
+      <pubDate>Fri, 28 Aug 2026 09:07:23 +0000</pubDate>
+      <itunes:duration>1698</itunes:duration>
     </item>
   </channel>
 </rss>
