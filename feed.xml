@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 09:07:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 09:06:43 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>TechCast Daily — July 28, 2026: China Gives It Away, Google Wants It Both Ways</title>
-      <description>10 stories</description>
-      <guid isPermaLink="false">techcast-2026-07-28</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-28.mp3" length="10105452" type="audio/mpeg"/>
-      <pubDate>Tue, 28 Jul 2026 09:06:48 +0000</pubDate>
-      <itunes:duration>1684</itunes:duration>
-    </item>
     <item>
       <title>The Sandbox That Wasn't</title>
       <description>11 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-28.mp3" length="10193087" type="audio/mpeg"/>
       <pubDate>Fri, 28 Aug 2026 09:07:23 +0000</pubDate>
       <itunes:duration>1698</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily: The Price of Saying No</title>
+      <description>9 stories</description>
+      <guid isPermaLink="false">techcast-2026-08-29</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-29.mp3" length="7832658" type="audio/mpeg"/>
+      <pubDate>Sat, 29 Aug 2026 09:06:43 +0000</pubDate>
+      <itunes:duration>1305</itunes:duration>
     </item>
   </channel>
 </rss>
