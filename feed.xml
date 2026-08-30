@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2026 09:06:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 09:08:53 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>The Sandbox That Wasn't</title>
-      <description>11 stories</description>
-      <guid isPermaLink="false">techcast-2026-07-29</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-29.mp3" length="9451491" type="audio/mpeg"/>
-      <pubDate>Wed, 29 Jul 2026 09:06:28 +0000</pubDate>
-      <itunes:duration>1575</itunes:duration>
-    </item>
     <item>
       <title>TechCast Daily — July 30, 2026: The Machine That Breaks Crypto</title>
       <description>9 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-29.mp3" length="7832658" type="audio/mpeg"/>
       <pubDate>Sat, 29 Aug 2026 09:06:43 +0000</pubDate>
       <itunes:duration>1305</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily: The Bill With a B In Front Of It</title>
+      <description>11 stories</description>
+      <guid isPermaLink="false">techcast-2026-08-30</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-30.mp3" length="9235372" type="audio/mpeg"/>
+      <pubDate>Sun, 30 Aug 2026 09:08:53 +0000</pubDate>
+      <itunes:duration>1539</itunes:duration>
     </item>
   </channel>
 </rss>
