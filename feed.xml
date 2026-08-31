@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 09:08:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 09:10:47 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>TechCast Daily — July 30, 2026: The Machine That Breaks Crypto</title>
-      <description>9 stories</description>
-      <guid isPermaLink="false">techcast-2026-07-30</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-30.mp3" length="8356412" type="audio/mpeg"/>
-      <pubDate>Thu, 30 Jul 2026 09:06:01 +0000</pubDate>
-      <itunes:duration>1392</itunes:duration>
-    </item>
     <item>
       <title>TechCast Daily — July 31, 2026: The Agent That Lost Four Hundred Dollars</title>
       <description>16 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-30.mp3" length="9235372" type="audio/mpeg"/>
       <pubDate>Sun, 30 Aug 2026 09:08:53 +0000</pubDate>
       <itunes:duration>1539</itunes:duration>
+    </item>
+    <item>
+      <title>The Postmortem With a Swear Word in the Title</title>
+      <description>11 stories</description>
+      <guid isPermaLink="false">techcast-2026-08-31</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-31.mp3" length="10090297" type="audio/mpeg"/>
+      <pubDate>Mon, 31 Aug 2026 09:10:47 +0000</pubDate>
+      <itunes:duration>1681</itunes:duration>
     </item>
   </channel>
 </rss>
