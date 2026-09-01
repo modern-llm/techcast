@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 09:10:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 09:07:00 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>TechCast Daily — July 31, 2026: The Agent That Lost Four Hundred Dollars</title>
-      <description>16 stories</description>
-      <guid isPermaLink="false">techcast-2026-07-31</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-07-31.mp3" length="9420582" type="audio/mpeg"/>
-      <pubDate>Fri, 31 Jul 2026 09:06:45 +0000</pubDate>
-      <itunes:duration>1570</itunes:duration>
-    </item>
     <item>
       <title>TechCast Daily — When the Models Break Out</title>
       <description>13 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-31.mp3" length="10090297" type="audio/mpeg"/>
       <pubDate>Mon, 31 Aug 2026 09:10:47 +0000</pubDate>
       <itunes:duration>1681</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily: The Handoff, the Blocklist, and the Closet Full of Mac Studios</title>
+      <description>11 stories</description>
+      <guid isPermaLink="false">techcast-2026-09-01</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-01.mp3" length="7331146" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Sep 2026 09:07:00 +0000</pubDate>
+      <itunes:duration>1221</itunes:duration>
     </item>
   </channel>
 </rss>
