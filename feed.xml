@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 09:07:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 09:06:30 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>TechCast Daily — August 2, 2026: AMD's Second-Source Moment, China's Lithography Clock, and Who Pays When the Answer Appears Without a Click</title>
-      <description>11 stories</description>
-      <guid isPermaLink="false">techcast-2026-08-02</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-02.mp3" length="9782522" type="audio/mpeg"/>
-      <pubDate>Sun, 02 Aug 2026 09:08:30 +0000</pubDate>
-      <itunes:duration>1630</itunes:duration>
-    </item>
     <item>
       <title>The Rewrite Test, the Trust List, and a Frog with a Habsburg Jaw</title>
       <description>8 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-02.mp3" length="9510588" type="audio/mpeg"/>
       <pubDate>Wed, 02 Sep 2026 09:07:29 +0000</pubDate>
       <itunes:duration>1585</itunes:duration>
+    </item>
+    <item>
+      <title>The Thinking You Can't Read</title>
+      <description>9 stories</description>
+      <guid isPermaLink="false">techcast-2026-09-03</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-03.mp3" length="7376599" type="audio/mpeg"/>
+      <pubDate>Thu, 03 Sep 2026 09:06:30 +0000</pubDate>
+      <itunes:duration>1229</itunes:duration>
     </item>
   </channel>
 </rss>
