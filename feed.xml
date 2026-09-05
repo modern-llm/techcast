@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 09:06:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:06:59 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Shrinking Giants and Faithful Bugs</title>
-      <description>7 stories</description>
-      <guid isPermaLink="false">techcast-2026-08-04</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-04.mp3" length="6801902" type="audio/mpeg"/>
-      <pubDate>Tue, 04 Aug 2026 09:07:06 +0000</pubDate>
-      <itunes:duration>1133</itunes:duration>
-    </item>
     <item>
       <title>The Compute Economy Meets the Power Grid</title>
       <description>10 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-04.mp3" length="8570406" type="audio/mpeg"/>
       <pubDate>Fri, 04 Sep 2026 09:06:47 +0000</pubDate>
       <itunes:duration>1428</itunes:duration>
+    </item>
+    <item>
+      <title>The Swarm Went Public: Rogue Agents, a Machine-Checked Fermat, and Apple's New Boss</title>
+      <description>11 stories</description>
+      <guid isPermaLink="false">techcast-2026-09-05</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-05.mp3" length="7858047" type="audio/mpeg"/>
+      <pubDate>Sat, 05 Sep 2026 09:06:59 +0000</pubDate>
+      <itunes:duration>1309</itunes:duration>
     </item>
   </channel>
 </rss>
