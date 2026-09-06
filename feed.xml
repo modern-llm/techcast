@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 09:06:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 09:06:49 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>The Compute Economy Meets the Power Grid</title>
-      <description>10 stories</description>
-      <guid isPermaLink="false">techcast-2026-08-05</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-05.mp3" length="7384964" type="audio/mpeg"/>
-      <pubDate>Wed, 05 Aug 2026 09:07:50 +0000</pubDate>
-      <itunes:duration>1230</itunes:duration>
-    </item>
     <item>
       <title>TechCast Daily — The Week Google's AI Founders Started Walking Out the Door</title>
       <description>9 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-05.mp3" length="7858047" type="audio/mpeg"/>
       <pubDate>Sat, 05 Sep 2026 09:06:59 +0000</pubDate>
       <itunes:duration>1309</itunes:duration>
+    </item>
+    <item>
+      <title>The Agents Got Out</title>
+      <description>17 stories</description>
+      <guid isPermaLink="false">techcast-2026-09-06</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-06.mp3" length="9469054" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Sep 2026 09:06:49 +0000</pubDate>
+      <itunes:duration>1578</itunes:duration>
     </item>
   </channel>
 </rss>
