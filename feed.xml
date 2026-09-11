@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 09:38:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:10:39 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Auto Mode, Escaped Agents, and Where the Work Actually Goes</title>
-      <description>12 stories</description>
-      <guid isPermaLink="false">techcast-2026-08-10</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-10.mp3" length="8586663" type="audio/mpeg"/>
-      <pubDate>Mon, 10 Aug 2026 09:07:35 +0000</pubDate>
-      <itunes:duration>1431</itunes:duration>
-    </item>
     <item>
       <title>Zuckerberg Reopens the Weights, and an Agent Breaks Into a Gym</title>
       <description>12 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-10.mp3" length="8886471" type="audio/mpeg"/>
       <pubDate>Thu, 10 Sep 2026 09:38:03 +0000</pubDate>
       <itunes:duration>1481</itunes:duration>
+    </item>
+    <item>
+      <title>Check the Proof: Machine-Verified Math, Copied Models, and the New Price of Code</title>
+      <description>10 stories</description>
+      <guid isPermaLink="false">techcast-2026-09-11</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-11.mp3" length="8500428" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Sep 2026 09:10:39 +0000</pubDate>
+      <itunes:duration>1416</itunes:duration>
     </item>
   </channel>
 </rss>
