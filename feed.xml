@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 09:10:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:37:43 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Zuckerberg Reopens the Weights, and an Agent Breaks Into a Gym</title>
-      <description>12 stories</description>
-      <guid isPermaLink="false">techcast-2026-08-11</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-11.mp3" length="9083034" type="audio/mpeg"/>
-      <pubDate>Tue, 11 Aug 2026 09:12:38 +0000</pubDate>
-      <itunes:duration>1513</itunes:duration>
-    </item>
     <item>
       <title>The Hard Problem and the Big Number</title>
       <description>10 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-11.mp3" length="8500428" type="audio/mpeg"/>
       <pubDate>Fri, 11 Sep 2026 09:10:39 +0000</pubDate>
       <itunes:duration>1416</itunes:duration>
+    </item>
+    <item>
+      <title>The Week the Agents Broke In</title>
+      <description>11 stories</description>
+      <guid isPermaLink="false">techcast-2026-09-12</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-12.mp3" length="8544728" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Sep 2026 10:37:43 +0000</pubDate>
+      <itunes:duration>1424</itunes:duration>
     </item>
   </channel>
 </rss>
