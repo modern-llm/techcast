@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:37:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 09:06:21 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>The Hard Problem and the Big Number</title>
-      <description>10 stories</description>
-      <guid isPermaLink="false">techcast-2026-08-12</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-12.mp3" length="8570655" type="audio/mpeg"/>
-      <pubDate>Wed, 12 Aug 2026 09:10:16 +0000</pubDate>
-      <itunes:duration>1428</itunes:duration>
-    </item>
     <item>
       <title>Forty Minutes in March: The LiteLLM Key Leak, Three Frontier Models in One Morning, and a Bug That Waited Sixteen Years</title>
       <description>12 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-12.mp3" length="8544728" type="audio/mpeg"/>
       <pubDate>Sat, 12 Sep 2026 10:37:43 +0000</pubDate>
       <itunes:duration>1424</itunes:duration>
+    </item>
+    <item>
+      <title>Pace the Frontier: The Labs Hit the Brakes, Agents Go Rogue, and Apple's Neural Engine Gets Its Speed Back</title>
+      <description>12 stories</description>
+      <guid isPermaLink="false">techcast-2026-09-13</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-13.mp3" length="7719830" type="audio/mpeg"/>
+      <pubDate>Sun, 13 Sep 2026 09:06:21 +0000</pubDate>
+      <itunes:duration>1286</itunes:duration>
     </item>
   </channel>
 </rss>
