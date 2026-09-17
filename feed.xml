@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 09:06:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 09:08:02 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>SpaceX Buys the Editor</title>
-      <description>10 stories</description>
-      <guid isPermaLink="false">techcast-2026-08-16</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-16.mp3" length="7424402" type="audio/mpeg"/>
-      <pubDate>Sun, 16 Aug 2026 09:09:24 +0000</pubDate>
-      <itunes:duration>1237</itunes:duration>
-    </item>
     <item>
       <title>The Toll Booth, the Backstop, and the Sandbox That Didn't Hold</title>
       <description>11 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-16.mp3" length="7020498" type="audio/mpeg"/>
       <pubDate>Wed, 16 Sep 2026 09:06:04 +0000</pubDate>
       <itunes:duration>1170</itunes:duration>
+    </item>
+    <item>
+      <title>The House Keys, the Off Switch, and the Charcoal Library</title>
+      <description>12 stories</description>
+      <guid isPermaLink="false">techcast-2026-09-17</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-17.mp3" length="6693348" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Sep 2026 09:08:02 +0000</pubDate>
+      <itunes:duration>1115</itunes:duration>
     </item>
   </channel>
 </rss>
