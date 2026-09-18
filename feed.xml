@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 09:08:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 09:07:27 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>The Toll Booth, the Backstop, and the Sandbox That Didn't Hold</title>
-      <description>11 stories</description>
-      <guid isPermaLink="false">techcast-2026-08-17</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-17.mp3" length="10819818" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Aug 2026 09:07:51 +0000</pubDate>
-      <itunes:duration>1803</itunes:duration>
-    </item>
     <item>
       <title>Anthropic's Eighteen Billion Dollar Quarter, and the Bot That Opened a Door</title>
       <description>10 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-17.mp3" length="6693348" type="audio/mpeg"/>
       <pubDate>Thu, 17 Sep 2026 09:08:02 +0000</pubDate>
       <itunes:duration>1115</itunes:duration>
+    </item>
+    <item>
+      <title>The Notes Models Leave for Themselves</title>
+      <description>10 stories</description>
+      <guid isPermaLink="false">techcast-2026-09-18</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-18.mp3" length="9126065" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Sep 2026 09:07:27 +0000</pubDate>
+      <itunes:duration>1520</itunes:duration>
     </item>
   </channel>
 </rss>
