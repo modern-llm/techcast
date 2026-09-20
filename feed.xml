@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 09:07:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 17:59:30 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Anthropic's Eighteen Billion Dollar Quarter, and the Bot That Opened a Door</title>
-      <description>10 stories</description>
-      <guid isPermaLink="false">techcast-2026-08-18</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-18.mp3" length="8046823" type="audio/mpeg"/>
-      <pubDate>Tue, 18 Aug 2026 09:07:21 +0000</pubDate>
-      <itunes:duration>1341</itunes:duration>
-    </item>
     <item>
       <title>The Guardrails Are the Attack Surface</title>
       <description>7 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-18.mp3" length="9126065" type="audio/mpeg"/>
       <pubDate>Fri, 18 Sep 2026 09:07:27 +0000</pubDate>
       <itunes:duration>1520</itunes:duration>
+    </item>
+    <item>
+      <title>The Chatbot That Almost Boarded a Ship</title>
+      <description>11 stories</description>
+      <guid isPermaLink="false">techcast-2026-09-20</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-20.mp3" length="6677346" type="audio/mpeg"/>
+      <pubDate>Sun, 20 Sep 2026 17:59:30 +0000</pubDate>
+      <itunes:duration>1112</itunes:duration>
     </item>
   </channel>
 </rss>
