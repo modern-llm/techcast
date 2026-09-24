@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 09:07:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:01:09 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>TechCast Daily: Stripe Buys the Meter, OpenAI Taps the Brakes</title>
-      <description>10 stories</description>
-      <guid isPermaLink="false">techcast-2026-08-20</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-20.mp3" length="8682857" type="audio/mpeg"/>
-      <pubDate>Thu, 20 Aug 2026 09:07:48 +0000</pubDate>
-      <itunes:duration>1447</itunes:duration>
-    </item>
     <item>
       <title>Every Model Cheats, and So Does Your Build Script</title>
       <description>9 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-22.mp3" length="7399535" type="audio/mpeg"/>
       <pubDate>Tue, 22 Sep 2026 09:07:59 +0000</pubDate>
       <itunes:duration>1233</itunes:duration>
+    </item>
+    <item>
+      <title>Cheap Answers, and Who Checks Them</title>
+      <description>8 stories</description>
+      <guid isPermaLink="false">techcast-2026-09-24</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-24.mp3" length="6795278" type="audio/mpeg"/>
+      <pubDate>Thu, 24 Sep 2026 10:01:09 +0000</pubDate>
+      <itunes:duration>1132</itunes:duration>
     </item>
   </channel>
 </rss>
