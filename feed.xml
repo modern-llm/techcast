@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 09:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 09:10:05 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>The Headset, the Harness, and a 112-Year-Old Law</title>
-      <description>11 stories</description>
-      <guid isPermaLink="false">techcast-2026-08-22</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-22.mp3" length="7372876" type="audio/mpeg"/>
-      <pubDate>Sat, 22 Aug 2026 09:06:31 +0000</pubDate>
-      <itunes:duration>1228</itunes:duration>
-    </item>
     <item>
       <title>The Model You Rented Yesterday</title>
       <description>9 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-26.mp3" length="7072921" type="audio/mpeg"/>
       <pubDate>Sat, 26 Sep 2026 09:09:46 +0000</pubDate>
       <itunes:duration>1178</itunes:duration>
+    </item>
+    <item>
+      <title>Five Billion for a Buzz, and Who Keeps the AI Savings</title>
+      <description>7 stories</description>
+      <guid isPermaLink="false">techcast-2026-09-28</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-28.mp3" length="6764481" type="audio/mpeg"/>
+      <pubDate>Mon, 28 Sep 2026 09:10:05 +0000</pubDate>
+      <itunes:duration>1127</itunes:duration>
     </item>
   </channel>
 </rss>
