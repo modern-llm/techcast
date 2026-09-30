@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 09:10:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 09:10:29 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>The Model You Rented Yesterday</title>
-      <description>9 stories</description>
-      <guid isPermaLink="false">techcast-2026-08-23</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-23.mp3" length="7825018" type="audio/mpeg"/>
-      <pubDate>Sun, 23 Aug 2026 09:05:26 +0000</pubDate>
-      <itunes:duration>1304</itunes:duration>
-    </item>
     <item>
       <title>The Cheap Models Came for the Hard Jobs</title>
       <description>11 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-28.mp3" length="6764481" type="audio/mpeg"/>
       <pubDate>Mon, 28 Sep 2026 09:10:05 +0000</pubDate>
       <itunes:duration>1127</itunes:duration>
+    </item>
+    <item>
+      <title>The Model OpenAI Wouldn't Ship, and the Agents It Did</title>
+      <description>11 stories</description>
+      <guid isPermaLink="false">techcast-2026-09-30</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-30.mp3" length="6937281" type="audio/mpeg"/>
+      <pubDate>Wed, 30 Sep 2026 09:10:29 +0000</pubDate>
+      <itunes:duration>1156</itunes:duration>
     </item>
   </channel>
 </rss>
