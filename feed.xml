@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 09:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 09:09:10 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>The Cheap Models Came for the Hard Jobs</title>
-      <description>11 stories</description>
-      <guid isPermaLink="false">techcast-2026-08-24</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-24.mp3" length="8747923" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Aug 2026 09:07:09 +0000</pubDate>
-      <itunes:duration>1457</itunes:duration>
-    </item>
     <item>
       <title>The Commons Goes Up for Sale</title>
       <description>10 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-30.mp3" length="6937281" type="audio/mpeg"/>
       <pubDate>Wed, 30 Sep 2026 09:10:29 +0000</pubDate>
       <itunes:duration>1156</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily, October 02, 2026: Google's Gemini 4 Argon, Microsoft's Copilot Rethink, and Cheaper Coding Agents</title>
+      <description>9 stories</description>
+      <guid isPermaLink="false">techcast-2026-10-02</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-10-02.mp3" length="7065789" type="audio/mpeg"/>
+      <pubDate>Fri, 02 Oct 2026 09:09:10 +0000</pubDate>
+      <itunes:duration>1177</itunes:duration>
     </item>
   </channel>
 </rss>
