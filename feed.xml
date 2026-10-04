@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 09:09:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 09:10:16 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>The Commons Goes Up for Sale</title>
-      <description>10 stories</description>
-      <guid isPermaLink="false">techcast-2026-08-25</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-25.mp3" length="8042888" type="audio/mpeg"/>
-      <pubDate>Tue, 25 Aug 2026 09:06:51 +0000</pubDate>
-      <itunes:duration>1340</itunes:duration>
-    </item>
     <item>
       <title>Nvidia Buys the Library</title>
       <description>8 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-10-02.mp3" length="7065789" type="audio/mpeg"/>
       <pubDate>Fri, 02 Oct 2026 09:09:10 +0000</pubDate>
       <itunes:duration>1177</itunes:duration>
+    </item>
+    <item>
+      <title>Apple Tightens the Mac's Biggest Permission, an OpenAI Safety Author Quits, and AI Gets Renamed</title>
+      <description>10 stories</description>
+      <guid isPermaLink="false">techcast-2026-10-04</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-10-04.mp3" length="6995211" type="audio/mpeg"/>
+      <pubDate>Sun, 04 Oct 2026 09:10:16 +0000</pubDate>
+      <itunes:duration>1165</itunes:duration>
     </item>
   </channel>
 </rss>
