@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 09:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 09:10:18 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Nvidia Buys the Library</title>
-      <description>8 stories</description>
-      <guid isPermaLink="false">techcast-2026-08-27</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-27.mp3" length="7318131" type="audio/mpeg"/>
-      <pubDate>Thu, 27 Aug 2026 09:06:34 +0000</pubDate>
-      <itunes:duration>1219</itunes:duration>
-    </item>
     <item>
       <title>Nvidia Buys the Map</title>
       <description>17 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-10-04.mp3" length="6995211" type="audio/mpeg"/>
       <pubDate>Sun, 04 Oct 2026 09:10:16 +0000</pubDate>
       <itunes:duration>1165</itunes:duration>
+    </item>
+    <item>
+      <title>Rogue Agents at Wikipedia, a Diary Sent to Police, and a Watermark You Can't See</title>
+      <description>10 stories</description>
+      <guid isPermaLink="false">techcast-2026-10-06</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-10-06.mp3" length="7000956" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Oct 2026 09:10:18 +0000</pubDate>
+      <itunes:duration>1166</itunes:duration>
     </item>
   </channel>
 </rss>
