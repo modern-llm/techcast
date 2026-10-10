@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 09:09:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 09:10:41 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>TechCast Daily: The Price of Saying No</title>
-      <description>9 stories</description>
-      <guid isPermaLink="false">techcast-2026-08-29</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-29.mp3" length="7832658" type="audio/mpeg"/>
-      <pubDate>Sat, 29 Aug 2026 09:06:43 +0000</pubDate>
-      <itunes:duration>1305</itunes:duration>
-    </item>
     <item>
       <title>TechCast Daily: The Bill With a B In Front Of It</title>
       <description>11 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-10-08.mp3" length="6855076" type="audio/mpeg"/>
       <pubDate>Thu, 08 Oct 2026 09:09:13 +0000</pubDate>
       <itunes:duration>1142</itunes:duration>
+    </item>
+    <item>
+      <title>TechCast Daily, October 10, 2026: Cheap to Make, Hard to Check</title>
+      <description>8 stories</description>
+      <guid isPermaLink="false">techcast-2026-10-10</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-10-10.mp3" length="7016202" type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 09:10:41 +0000</pubDate>
+      <itunes:duration>1169</itunes:duration>
     </item>
   </channel>
 </rss>
