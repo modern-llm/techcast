@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 09:10:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 09:10:06 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>TechCast Daily: The Bill With a B In Front Of It</title>
-      <description>11 stories</description>
-      <guid isPermaLink="false">techcast-2026-08-30</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-30.mp3" length="9235372" type="audio/mpeg"/>
-      <pubDate>Sun, 30 Aug 2026 09:08:53 +0000</pubDate>
-      <itunes:duration>1539</itunes:duration>
-    </item>
     <item>
       <title>The Postmortem With a Swear Word in the Title</title>
       <description>11 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-10-10.mp3" length="7016202" type="audio/mpeg"/>
       <pubDate>Sat, 10 Oct 2026 09:10:41 +0000</pubDate>
       <itunes:duration>1169</itunes:duration>
+    </item>
+    <item>
+      <title>Websites Push Back on AI Agents, and Meta Backs Down</title>
+      <description>14 stories</description>
+      <guid isPermaLink="false">techcast-2026-10-18</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-10-18.mp3" length="6536816" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Oct 2026 09:10:06 +0000</pubDate>
+      <itunes:duration>1089</itunes:duration>
     </item>
   </channel>
 </rss>
