@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 09:10:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 09:13:04 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>The Postmortem With a Swear Word in the Title</title>
-      <description>11 stories</description>
-      <guid isPermaLink="false">techcast-2026-08-31</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-08-31.mp3" length="10090297" type="audio/mpeg"/>
-      <pubDate>Mon, 31 Aug 2026 09:10:47 +0000</pubDate>
-      <itunes:duration>1681</itunes:duration>
-    </item>
     <item>
       <title>TechCast Daily: The Handoff, the Blocklist, and the Closet Full of Mac Studios</title>
       <description>11 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-10-18.mp3" length="6536816" type="audio/mpeg"/>
       <pubDate>Sun, 18 Oct 2026 09:10:06 +0000</pubDate>
       <itunes:duration>1089</itunes:duration>
+    </item>
+    <item>
+      <title>Stolen Keys, Hidden Instructions, and a Ban on DeepSeek</title>
+      <description>18 stories</description>
+      <guid isPermaLink="false">techcast-2026-10-20</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-10-20.mp3" length="7189715" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Oct 2026 09:13:04 +0000</pubDate>
+      <itunes:duration>1198</itunes:duration>
     </item>
   </channel>
 </rss>
