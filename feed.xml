@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 09:08:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:08:06 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>The Thinking You Can't Read</title>
-      <description>9 stories</description>
-      <guid isPermaLink="false">techcast-2026-09-03</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-03.mp3" length="7376599" type="audio/mpeg"/>
-      <pubDate>Thu, 03 Sep 2026 09:06:30 +0000</pubDate>
-      <itunes:duration>1229</itunes:duration>
-    </item>
     <item>
       <title>Nvidia Buys the Commons, OpenAI Ships Astra, and Four Labs Go Dark at Once</title>
       <description>10 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-10-24.mp3" length="6923450" type="audio/mpeg"/>
       <pubDate>Sat, 24 Oct 2026 09:08:33 +0000</pubDate>
       <itunes:duration>1153</itunes:duration>
+    </item>
+    <item>
+      <title>AI Gets Cheap, the Payoff Doesn't, and the iPhone Duo Cracks</title>
+      <description>13 stories</description>
+      <guid isPermaLink="false">techcast-2026-10-26</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-10-26.mp3" length="6728920" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Oct 2026 09:08:06 +0000</pubDate>
+      <itunes:duration>1121</itunes:duration>
     </item>
   </channel>
 </rss>
