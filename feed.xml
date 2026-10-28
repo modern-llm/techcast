@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 09:08:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 09:20:53 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Nvidia Buys the Commons, OpenAI Ships Astra, and Four Labs Go Dark at Once</title>
-      <description>10 stories</description>
-      <guid isPermaLink="false">techcast-2026-09-04</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-04.mp3" length="8570406" type="audio/mpeg"/>
-      <pubDate>Fri, 04 Sep 2026 09:06:47 +0000</pubDate>
-      <itunes:duration>1428</itunes:duration>
-    </item>
     <item>
       <title>The Swarm Went Public: Rogue Agents, a Machine-Checked Fermat, and Apple's New Boss</title>
       <description>11 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-10-26.mp3" length="6728920" type="audio/mpeg"/>
       <pubDate>Mon, 26 Oct 2026 09:08:06 +0000</pubDate>
       <itunes:duration>1121</itunes:duration>
+    </item>
+    <item>
+      <title>Anthropic Goes Public, OpenAI Claims a Math Breakthrough, and Microsoft Pays 60,000 People to Leave</title>
+      <description>12 stories</description>
+      <guid isPermaLink="false">techcast-2026-10-28</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-10-28.mp3" length="6228847" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Oct 2026 09:20:53 +0000</pubDate>
+      <itunes:duration>1038</itunes:duration>
     </item>
   </channel>
 </rss>
