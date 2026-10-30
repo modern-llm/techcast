@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 09:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:11:56 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>The Swarm Went Public: Rogue Agents, a Machine-Checked Fermat, and Apple's New Boss</title>
-      <description>11 stories</description>
-      <guid isPermaLink="false">techcast-2026-09-05</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-05.mp3" length="7858047" type="audio/mpeg"/>
-      <pubDate>Sat, 05 Sep 2026 09:06:59 +0000</pubDate>
-      <itunes:duration>1309</itunes:duration>
-    </item>
     <item>
       <title>The Agents Got Out</title>
       <description>17 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-10-28.mp3" length="6228847" type="audio/mpeg"/>
       <pubDate>Wed, 28 Oct 2026 09:20:53 +0000</pubDate>
       <itunes:duration>1038</itunes:duration>
+    </item>
+    <item>
+      <title>Google's AI Search Earns Less, Azure Shows Its Number, and an AI Investor Buys ADT</title>
+      <description>9 stories</description>
+      <guid isPermaLink="false">techcast-2026-10-30</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-10-30.mp3" length="6982670" type="audio/mpeg"/>
+      <pubDate>Fri, 30 Oct 2026 09:11:56 +0000</pubDate>
+      <itunes:duration>1163</itunes:duration>
     </item>
   </channel>
 </rss>
