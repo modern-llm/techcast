@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 10:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 10:12:43 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Neuralese, Universal Embeddings, and the Bill Coming Due</title>
-      <description>10 stories</description>
-      <guid isPermaLink="false">techcast-2026-09-07</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-07.mp3" length="7624740" type="audio/mpeg"/>
-      <pubDate>Mon, 07 Sep 2026 10:17:08 +0000</pubDate>
-      <itunes:duration>1270</itunes:duration>
-    </item>
     <item>
       <title>Three Billion Euros, One Burning Data Center, and a Compiler That Lies</title>
       <description>8 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-11-01.mp3" length="6718851" type="audio/mpeg"/>
       <pubDate>Sun, 01 Nov 2026 10:10:32 +0000</pubDate>
       <itunes:duration>1119</itunes:duration>
+    </item>
+    <item>
+      <title>Anthropic Says Self-Improving AI Is Near, Oracle Needs Twenty Billion, and an AI Breaks Into WorkOS</title>
+      <description>19 stories</description>
+      <guid isPermaLink="false">techcast-2026-11-03</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-11-03.mp3" length="7191487" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Nov 2026 10:12:43 +0000</pubDate>
+      <itunes:duration>1198</itunes:duration>
     </item>
   </channel>
 </rss>
