@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 10:24:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 10:10:12 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Check the Proof: Machine-Verified Math, Copied Models, and the New Price of Code</title>
-      <description>10 stories</description>
-      <guid isPermaLink="false">techcast-2026-09-11</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-11.mp3" length="8500428" type="audio/mpeg"/>
-      <pubDate>Fri, 11 Sep 2026 09:10:39 +0000</pubDate>
-      <itunes:duration>1416</itunes:duration>
-    </item>
     <item>
       <title>The Week the Agents Broke In</title>
       <description>11 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-11-09.mp3" length="6944467" type="audio/mpeg"/>
       <pubDate>Mon, 09 Nov 2026 10:24:38 +0000</pubDate>
       <itunes:duration>1157</itunes:duration>
+    </item>
+    <item>
+      <title>Nvidia's Board Weighs Its Founder, TSMC Buys In, and DeepMind Checks Signal's Math</title>
+      <description>10 stories</description>
+      <guid isPermaLink="false">techcast-2026-11-12</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-11-12.mp3" length="7205150" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Nov 2026 10:10:12 +0000</pubDate>
+      <itunes:duration>1200</itunes:duration>
     </item>
   </channel>
 </rss>
