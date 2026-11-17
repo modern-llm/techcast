@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 10:23:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 10:08:57 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Pace the Frontier: The Labs Hit the Brakes, Agents Go Rogue, and Apple's Neural Engine Gets Its Speed Back</title>
-      <description>12 stories</description>
-      <guid isPermaLink="false">techcast-2026-09-13</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-13.mp3" length="7719830" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Sep 2026 09:06:21 +0000</pubDate>
-      <itunes:duration>1286</itunes:duration>
-    </item>
     <item>
       <title>Pace the Frontier: AI's Leaders Ask for Brakes, Critics Call It a Cartel</title>
       <description>11 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-11-14.mp3" length="7340504" type="audio/mpeg"/>
       <pubDate>Sat, 14 Nov 2026 10:23:53 +0000</pubDate>
       <itunes:duration>1223</itunes:duration>
+    </item>
+    <item>
+      <title>California Sues OpenAI Over Rogue Agents, Nvidia Reports Without Huang, and a Three-Hour Hack</title>
+      <description>8 stories</description>
+      <guid isPermaLink="false">techcast-2026-11-17</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-11-17.mp3" length="6810601" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Nov 2026 10:08:57 +0000</pubDate>
+      <itunes:duration>1135</itunes:duration>
     </item>
   </channel>
 </rss>
