@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 10:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:22:18 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Pace the Frontier: AI's Leaders Ask for Brakes, Critics Call It a Cartel</title>
-      <description>11 stories</description>
-      <guid isPermaLink="false">techcast-2026-09-15</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-15.mp3" length="7855876" type="audio/mpeg"/>
-      <pubDate>Tue, 15 Sep 2026 09:08:06 +0000</pubDate>
-      <itunes:duration>1309</itunes:duration>
-    </item>
     <item>
       <title>TechCast Daily — The Four-Month Moat</title>
       <description>10 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-11-17.mp3" length="6810601" type="audio/mpeg"/>
       <pubDate>Tue, 17 Nov 2026 10:08:57 +0000</pubDate>
       <itunes:duration>1135</itunes:duration>
+    </item>
+    <item>
+      <title>Anthropic Prices Its IPO, Nvidia's Startup Empire, and an Nginx Bug to Patch</title>
+      <description>12 stories</description>
+      <guid isPermaLink="false">techcast-2026-11-19</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-11-19.mp3" length="6750392" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Nov 2026 10:22:18 +0000</pubDate>
+      <itunes:duration>1125</itunes:duration>
     </item>
   </channel>
 </rss>
