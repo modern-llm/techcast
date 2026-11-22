@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 10:22:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 10:13:58 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>TechCast Daily — The Four-Month Moat</title>
-      <description>10 stories</description>
-      <guid isPermaLink="false">techcast-2026-09-16</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-16.mp3" length="7020498" type="audio/mpeg"/>
-      <pubDate>Wed, 16 Sep 2026 09:06:04 +0000</pubDate>
-      <itunes:duration>1170</itunes:duration>
-    </item>
     <item>
       <title>The House Keys, the Off Switch, and the Charcoal Library</title>
       <description>12 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-11-19.mp3" length="6750392" type="audio/mpeg"/>
       <pubDate>Thu, 19 Nov 2026 10:22:18 +0000</pubDate>
       <itunes:duration>1125</itunes:duration>
+    </item>
+    <item>
+      <title>A Riemann Claim, Anthropic's Debut Week, and Two Million Tripwires</title>
+      <description>9 stories</description>
+      <guid isPermaLink="false">techcast-2026-11-22</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-11-22.mp3" length="6807694" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Nov 2026 10:13:58 +0000</pubDate>
+      <itunes:duration>1134</itunes:duration>
     </item>
   </channel>
 </rss>
