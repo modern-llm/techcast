@@ -13,7 +13,7 @@
       <link>https://modern-llm.github.io/techcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 10:13:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 10:09:24 +0000</lastBuildDate>
     <itunes:author>TechCast</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
@@ -21,14 +21,6 @@
     <itunes:image href="https://modern-llm.github.io/techcast/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>The House Keys, the Off Switch, and the Charcoal Library</title>
-      <description>12 stories</description>
-      <guid isPermaLink="false">techcast-2026-09-17</guid>
-      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-09-17.mp3" length="6693348" type="audio/mpeg"/>
-      <pubDate>Thu, 17 Sep 2026 09:08:02 +0000</pubDate>
-      <itunes:duration>1115</itunes:duration>
-    </item>
     <item>
       <title>The Notes Models Leave for Themselves</title>
       <description>10 stories</description>
@@ -260,6 +252,14 @@
       <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-11-22.mp3" length="6807694" type="audio/mpeg"/>
       <pubDate>Sun, 22 Nov 2026 10:13:58 +0000</pubDate>
       <itunes:duration>1134</itunes:duration>
+    </item>
+    <item>
+      <title>A Million Satellites, a Factoring Rumor, and a 1Password Breach</title>
+      <description>12 stories</description>
+      <guid isPermaLink="false">techcast-2026-11-26</guid>
+      <enclosure url="https://modern-llm.github.io/techcast/episodes/techcast-2026-11-26.mp3" length="6991435" type="audio/mpeg"/>
+      <pubDate>Thu, 26 Nov 2026 10:09:24 +0000</pubDate>
+      <itunes:duration>1165</itunes:duration>
     </item>
   </channel>
 </rss>
